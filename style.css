@@ -21,6 +21,10 @@ img {
   top: 10px;
 }
 
+p, li {
+  width: 80%;
+}
+
 .container {
   max-width: 700px;   
   background: #fff;
